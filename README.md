@@ -57,5 +57,5 @@ Customer can be Defaulter based on the following conditions
 
 ## Contact:
 Created By: Ranjit Kumar Yadav
-GitHub Username: ryadav1295
-Email: ryadav.perforce@gmail.com
+- GitHub Username: ryadav1295
+- Email: ryadav.perforce@gmail.com
